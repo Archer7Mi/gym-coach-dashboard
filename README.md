@@ -1,2 +1,2 @@
-# gym-coach-dashboard
+# Gym-coach-dashboard
 ## Web app for managing gym clients and workouts
